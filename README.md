@@ -8,3 +8,13 @@ Python implementation of Data Structures and Algorithms
 
 ### Topics
 1. Arrays and Lists
+2. Linked List
+3. Stack
+4. Queue
+5. Hashing
+6. Linear Search
+7. Binary Search
+8. Bubble Sort
+9. Selection Sort
+10. Merge Sort
+11. ...
